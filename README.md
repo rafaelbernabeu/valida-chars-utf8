@@ -1,0 +1,1 @@
+# valida-chars-utf8
